@@ -1,5 +1,4 @@
-![Thumbnail GitHub](<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/6f56e867-4ceb-4dfe-843e-8ee64049de9c" />)
-
+![Thumbnail GitHub](<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/1e1320ff-661a-4633-9a60-2eab3d78d794" />)
   
 # Número Secreto Alura-ONE
 
