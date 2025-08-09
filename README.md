@@ -1,4 +1,8 @@
 ![Thumbnail GitHub](<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/1e1320ff-661a-4633-9a60-2eab3d78d794" />)
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+</p>
   
 # Número Secreto Alura-ONE
 
@@ -21,9 +25,4 @@ Ao acertar o número secreto, você poderá jogar novamente clicando em **novo j
 
 # Autores
 
-<a href="https://github.com/nath-elle/jogo-numero-secreto-js/graphs/contributors">
-  <img src="https://contrib.rocks/image?nath-elle/jogo-numero-secreto-js" alt="contrib.rocks image" />
-</a>
-
-
-# Licença
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/225074867?v=4" width=115><br><sub>Nath</sub>](https://github.com/nath-elle)
