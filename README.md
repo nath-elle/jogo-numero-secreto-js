@@ -1,10 +1,10 @@
-![Thumbnail GitHub](<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/1e1320ff-661a-4633-9a60-2eab3d78d794" />)
+![foto de capa](<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/1e1320ff-661a-4633-9a60-2eab3d78d794" />)
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=License&message=Unlincensed&color=green&style=for-the-badge"/>
 </p>
   
-# Número Secreto Alura-ONE
+# Projeto Número Secreto - Alura-ONE G9
 
 Este é um projeto de um site feito em Javascript e HTML que consiste num jogo onde você adivinha um número secreto.
 O projeto foi realizado através do site da **Alura** em colaboração com a **Oracle Next Education**, e 
@@ -23,6 +23,6 @@ Ao acertar o número secreto, você poderá jogar novamente clicando em **novo j
 
 [Alura](https://www.alura.com.br/)
 
-# Autores
+# Autor
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/225074867?v=4" width=115><br><sub>Nath</sub>](https://github.com/nath-elle)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/225074867?v=4" width=115><br><sub>Nath</sub>](https://github.com/nath-elle) |
