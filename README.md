@@ -10,12 +10,14 @@ O projeto foi realizado através do site da **Alura** em colaboração com a **O
 ## 🛠️ Abrir e rodar o projeto
 
 Você pode acessar o projeto final [aqui](jogo-numero-secreto-js-hazel.vercel.app)
+
 Para jogar, insira um número de 1 a 20, e siga as dicas dadas pelo site acima do campo de chute.
 Ao acertar o número secreto, você poderá jogar novamente clicando em **novo jogo.**
 
 ## 📚 Mais informações sobre os cursos em que o projeto foi disponibilizado:
 
 [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
+
 [Alura](https://www.alura.com.br/)
 
 # Autores
