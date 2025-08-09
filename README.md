@@ -7,7 +7,7 @@
 # Projeto Número Secreto - Alura-ONE G9
 
 Este é um projeto de um site feito em Javascript e HTML que consiste num jogo onde você adivinha um número secreto.
-O projeto foi realizado através do site da **Alura** em colaboração com a **Oracle Next Education**, e 
+O projeto foi realizado através do site da **Alura** em colaboração com a **Oracle Next Education**.
 
 
 ## 🛠️ Abrir e rodar o projeto
