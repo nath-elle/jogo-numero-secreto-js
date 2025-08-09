@@ -26,3 +26,4 @@ Ao acertar o número secreto, você poderá jogar novamente clicando em **novo j
 # Autor
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/225074867?v=4" width=115><br><sub>Nath</sub>](https://github.com/nath-elle) |
+| :--: |
