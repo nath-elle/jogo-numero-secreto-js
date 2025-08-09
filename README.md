@@ -1,4 +1,4 @@
-![foto de capa](<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/1e1320ff-661a-4633-9a60-2eab3d78d794" />)
+<img width="1000" height="500" alt="Programação-Projeto Número Secreto - G9 ONE" src="https://github.com/user-attachments/assets/27af85b7-b4f9-4059-9963-8ddde9f84dc8" />
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=License&message=Unlincensed&color=green&style=for-the-badge"/>
